@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # ── CONFIG ──────────────────────────────────────────────────────────────────
-API_KEY   = "AIzaSyCgNhKifs1VhC4XHB542Yp4J4nWTpLcpl8"          # ← paste your key here
+API_KEY   = "AIzaSyBtxeTQYhronYtO2RumQLFXHogqbgOkhXE"          # ← paste your key here
 KB_PATH   = "train_schedule_20.txt"      # ← path to your knowledge-base file
 MODEL     = "gemini-2.5-flash"
 # ────────────────────────────────────────────────────────────────────────────
